@@ -1,0 +1,4 @@
+customtkinter
+pyttsx3
+SpeechRecognition
+pyaudio
