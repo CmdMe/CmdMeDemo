@@ -31,7 +31,6 @@ Built with `customtkinter`, it features a modern GUI, voice interaction, and bas
 
 ### Step 1: Download or Clone the Repository
 
-```bash
 git clone https://github.com/IamSomnathDas/CmdMe.git
 cd CmdMe
 
