@@ -28,7 +28,7 @@ CmdMe is a desktop-based voice assistant that lets you control your system using
 
 ## 🔧 Installation
 
-### Step 1: Download or Clone the Repository
+#Step 1: Download or Clone the Repository
 
 ```bash
 https://github.com/IamSomnathDas/CmdMe.git
