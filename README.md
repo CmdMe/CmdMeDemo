@@ -29,7 +29,7 @@ Built with `customtkinter`, it features a modern GUI, voice interaction, and bas
 
 ## 🔧 Installation
 
-#Step 1: Download or Clone the Repository
+## Step 1: Download or Clone the Repository
 
 git clone https://github.com/IamSomnathDas/CmdMe.git
 cd CmdMe
@@ -38,7 +38,7 @@ Or download the ZIP and extract it manually.
 
 ---
 
-#Step 2: Create and Activate a Virtual Environment (recommended)
+## Step 2: Create and Activate a Virtual Environment (recommended)
 
 On Windows
 
@@ -53,7 +53,7 @@ source venv/bin/activate
 
 ---
 
-#Step 3: Install Required Python Packages
+# Step 3: Install Required Python Packages
 
 pip install -r requirements.txt
 
