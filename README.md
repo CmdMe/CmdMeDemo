@@ -29,7 +29,7 @@ Built with `customtkinter`, it features a modern GUI, voice interaction, and bas
 
 ## 🔧 Installation
 
-## Step 1: Download or Clone the Repository
+### Step 1: Download or Clone the Repository
 
 git clone https://github.com/IamSomnathDas/CmdMe.git
 cd CmdMe
@@ -38,7 +38,7 @@ Or download the ZIP and extract it manually.
 
 ---
 
-## Step 2: Create and Activate a Virtual Environment (recommended)
+### Step 2: Create and Activate a Virtual Environment (recommended)
 
 On Windows
 
@@ -53,7 +53,7 @@ source venv/bin/activate
 
 ---
 
-# Step 3: Install Required Python Packages
+### Step 3: Install Required Python Packages
 
 pip install -r requirements.txt
 
@@ -77,14 +77,14 @@ pip install pyaudio
 
 ---
 
-#Step 4: Run the Application
+### Step 4: Run the Application
 
 python main.py
 
 
 ---
 
-#🚀 Usage
+### 🚀 Usage
 
 Type commands into the input box and press Send or hit Enter.
 
@@ -107,7 +107,7 @@ Shutdown the system
 
 ---
 
-#📁 File Structure
+### 📁 File Structure
 
 CmdMe/
 ├── main.py          # Main application script
@@ -118,7 +118,7 @@ CmdMe/
 
 ---
 
-#📚 Dependencies
+### 📚 Dependencies
 
 customtkinter
 
@@ -136,14 +136,14 @@ Other standard libraries: threading, subprocess, datetime, os, webbrowser
 
 ---
 
-#📝 License
+### 📝 License
 
 This project is for educational purposes.
 
 
 ---
 
-#👤 Author
+### 👤 Author
 
 Somnath Das
 GitHub Profile: https://github.com/IamSomnathDas
