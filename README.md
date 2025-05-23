@@ -42,44 +42,44 @@ Or download the ZIP and extract it manually.
 
 On Windows
 
-python -m venv venv
-venv\Scripts\activate
+`python -m venv venv
+venv\Scripts\activate`
 
 On macOS/Linux
 
-python3 -m venv venv
-source venv/bin/activate
+`python3 -m venv venv
+source venv/bin/activate`
 
 
 ---
 
 ### Step 3: Install Required Python Packages
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 If you encounter issues installing pyaudio, try the following:
 
 Windows
 
-pip install pipwin
-pipwin install pyaudio
+`pip install pipwin`
+`pipwin install pyaudio`
 
 macOS (with Homebrew)
 
-brew install portaudio
-pip install pyaudio
+`brew install portaudio`
+`pip install pyaudio`
 
 Linux (Debian/Ubuntu)
 
-sudo apt-get install portaudio19-dev python3-pyaudio
-pip install pyaudio
+`sudo apt-get install portaudio19-dev` `python3-pyaudio`
+`pip install pyaudio`
 
 
 ---
 
 ### Step 4: Run the Application
 
-python main.py
+`python main.py`
 
 
 ---
@@ -109,26 +109,26 @@ Shutdown the system
 
 ### 📁 File Structure
 
-CmdMe/
+`CmdMe/
 ├── main.py          # Main application script
 ├── requirements.txt # Python dependencies
 ├── icon.ico         # App icon file
-└── README.md        # This file
+└── README.md        # This file`
 
 
 ---
 
 ### 📚 Dependencies
 
-customtkinter
+`customtkinter`
 
-pyttsx3
+`pyttsx3`
 
-SpeechRecognition
+`SpeechRecognition`
 
-pyaudio
+`pyaudio`
 
-tkinter (builtin)
+`tkinter` (builtin)
 
 Other standard libraries: threading, subprocess, datetime, os, webbrowser
 
@@ -147,7 +147,7 @@ This project is for educational purposes.
 
 Somnath Das
 
-GitHub Profile: https://github.com/IamSomnathDas
+GitHub Profile: https://github.com/CmdMe
 
 
 ---
